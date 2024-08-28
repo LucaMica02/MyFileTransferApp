@@ -15,9 +15,9 @@ To start the server, use the following command:
 ```bash
 ./myFTserver -a [address] -p [port] -f [root_directory]
 ```
-**- a [address]:** Specify the IP address where the server will be hosted.
-**-p [port]:** Specify the port on which the server will listen.
-**-f [root_directory]:** Set the root directory for file storage. The directory will be created if it does not exist.
+- **a [address]:** Specify the IP address where the server will be hosted.
+- **p [port]:** Specify the port on which the server will listen.
+- **f [root_directory]:** Set the root directory for file storage. The directory will be created if it does not exist.
 
 Example: 
 ```bash
